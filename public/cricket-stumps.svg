@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 80" width="60" height="80">
+  <!-- Three stumps -->
+  <rect x="12" y="10" width="5" height="60" rx="2" fill="#8D6E63"/>
+  <rect x="27" y="10" width="5" height="60" rx="2" fill="#8D6E63"/>
+  <rect x="42" y="10" width="5" height="60" rx="2" fill="#8D6E63"/>
+  <!-- Two bails -->
+  <rect x="10" y="6" width="22" height="5" rx="2.5" fill="#A1887F"/>
+  <rect x="27" y="6" width="22" height="5" rx="2.5" fill="#A1887F"/>
+</svg>

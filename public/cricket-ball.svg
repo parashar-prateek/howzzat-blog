@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+  <circle cx="25" cy="25" r="22" fill="#C0392B"/>
+  <path d="M12 15 Q25 25 12 35" stroke="#FFD54F" stroke-width="2" fill="none"/>
+  <path d="M38 15 Q25 25 38 35" stroke="#FFD54F" stroke-width="2" fill="none"/>
+  <!-- Stitches left -->
+  <line x1="10" y1="18" x2="13" y2="19" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="9" y1="22" x2="12" y2="22" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="9" y1="26" x2="12" y2="26" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="10" y1="30" x2="13" y2="30" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="10" y1="34" x2="13" y2="33" stroke="#FFD54F" stroke-width="1.2"/>
+  <!-- Stitches right -->
+  <line x1="40" y1="18" x2="37" y2="19" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="41" y1="22" x2="38" y2="22" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="41" y1="26" x2="38" y2="26" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="40" y1="30" x2="37" y2="30" stroke="#FFD54F" stroke-width="1.2"/>
+  <line x1="40" y1="34" x2="37" y2="33" stroke="#FFD54F" stroke-width="1.2"/>
+</svg>
