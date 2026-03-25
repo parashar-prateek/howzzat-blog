@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <!-- England cricket jersey - white with blue trim -->
+
+  <!-- Left sleeve -->
+  <path d="M30 55 L5 95 L25 105 L50 70 Z" fill="#FAFAFA" stroke="#1A237E" stroke-width="1.5"/>
+  <!-- Right sleeve -->
+  <path d="M170 55 L195 95 L175 105 L150 70 Z" fill="#FAFAFA" stroke="#1A237E" stroke-width="1.5"/>
+
+  <!-- Jersey body -->
+  <path d="M50 45 L30 55 L50 70 L50 190 L150 190 L150 70 L170 55 L150 45 L135 35 Q100 20 65 35 Z"
+        fill="#FAFAFA" stroke="#1A237E" stroke-width="1.5"/>
+
+  <!-- Collar -->
+  <path d="M65 35 Q100 25 135 35 L130 45 Q100 35 70 45 Z" fill="#1A237E"/>
+
+  <!-- Blue shoulder trim -->
+  <path d="M50 45 L65 35 L70 48 L50 55 Z" fill="#1A237E" opacity="0.8"/>
+  <path d="M150 45 L135 35 L130 48 L150 55 Z" fill="#1A237E" opacity="0.8"/>
+
+  <!-- Three Lions crest (simplified) -->
+  <rect x="85" y="55" width="30" height="22" rx="3" fill="#1A237E" opacity="0.15"/>
+  <text x="100" y="70" text-anchor="middle" font-size="14" fill="#1A237E" opacity="0.5">🦁</text>
+
+  <!-- ROOT text -->
+  <text x="100" y="120" text-anchor="middle"
+        font-family="Arial Black, Arial, sans-serif" font-weight="900"
+        font-size="28" fill="#1A237E" letter-spacing="3">ROOT</text>
+
+  <!-- Number 66 -->
+  <text x="100" y="165" text-anchor="middle"
+        font-family="Arial Black, Arial, sans-serif" font-weight="900"
+        font-size="48" fill="#1A237E">66</text>
+
+  <!-- Blue bottom trim -->
+  <rect x="50" y="183" width="100" height="7" rx="1" fill="#1A237E" opacity="0.3"/>
+</svg>
