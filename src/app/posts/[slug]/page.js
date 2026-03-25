@@ -81,7 +81,7 @@ export default async function PostPage({ params }) {
       <div className="post-divider">🏏 ✏️ 📖 ✏️ 🏏</div>
 
       <div className="post-signoff">
-        Howzzat, Aayansh? 🏏
+        Howzzat, Readers? 🏏
       </div>
 
       <a
