@@ -32,7 +32,7 @@ Joe Root plays IPL, Indian Premier League for the Rajasthan Royals and his IPL s
 
 ## Late Life
 
-Joe continued to be out and about practicing cricket with his teammates or if they are not free to play then he plays with Billy Root who is his sibling and teammate. This is an everyday thing. Later and later when a thrilling test happened against India it was a big b- and England had a new player named Shoaib Bashir.
+Joe continued to be out and about practicing cricket with his teammates or if they are not free to play then he plays with Billy Root who is his sibling and teammate. This is an everyday thing. Later and later when a thrilling test happened against India it was a big battle and England had a new player named Shoaib Bashir.
 
 Shoaib Bashir and Billy Root were struggling. India kept hitting them for sixes. So Joe decided to call his captain named Ben Stokes to help them because he is an allrounder and Joe is a batter and they were struggling in bowling. In the fourth test Joe got the second most test runs. At that time the whole stadium saw the guy in the field whose back said Root 66. Then in the fifth test the Indian crowd had fear when Joe came to bat and unfortunately India won that test but luckily the series was a draw. "It is fine team, we tried our best and at
 
