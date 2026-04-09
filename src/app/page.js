@@ -7,6 +7,7 @@ function getTagClass(tag) {
     story: 'tag-story',
     cricket: 'tag-cricket',
     sports: 'tag-sports',
+    baseball: 'tag-baseball',
     history: 'tag-history',
     science: 'tag-science',
     adventure: 'tag-adventure',
