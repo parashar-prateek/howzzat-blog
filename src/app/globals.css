@@ -339,6 +339,7 @@ main::before {
 .tag-cricket { background: #E8F5E9; color: var(--pitch); border-color: var(--pitch); }
 .tag-sports { background: #E1F5FE; color: var(--sky); border-color: var(--sky); }
 .tag-baseball { background: #FFF8E1; color: #BF360C; border-color: #BF360C; }
+.tag-basketball { background: #FBE9E7; color: #E64A19; border-color: #E64A19; }
 .tag-history { background: #FBE9E7; color: var(--ball); border-color: var(--ball); }
 .tag-science { background: #E0F7FA; color: var(--teal); border-color: var(--teal); }
 .tag-adventure { background: #FFF8E1; color: #E65100; border-color: #E65100; }
@@ -365,6 +366,7 @@ main::before {
 .tag-welcome::before { content: '👋 '; }
 .tag-sports::before { content: '⚡ '; }
 .tag-baseball::before { content: '⚾ '; }
+.tag-basketball::before { content: '🏀 '; }
 
 /* ===== SINGLE POST ===== */
 .post-article {
