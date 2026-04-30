@@ -349,6 +349,7 @@ main::before {
 .tag-welcome { background: #FFF8E1; color: #F57F17; border-color: #F57F17; }
 .tag-animals { background: #FBE9E7; color: #BF360C; border-color: #BF360C; }
 .tag-india { background: #FFF3E0; color: #E65100; border-color: #E65100; }
+.tag-australia { background: #FFFDE7; color: #2E7D32; border-color: #2E7D32; }
 .tag-default { background: #ECEFF1; color: var(--gray); border-color: var(--gray); }
 
 /* Tag emoji prefixes */
@@ -363,6 +364,7 @@ main::before {
 .tag-nature::before { content: '🌿 '; }
 .tag-fiction::before { content: '🧙 '; }
 .tag-india::before { content: '🇮🇳 '; }
+.tag-australia::before { content: '🇦🇺 '; }
 .tag-welcome::before { content: '👋 '; }
 .tag-sports::before { content: '⚡ '; }
 .tag-baseball::before { content: '⚾ '; }

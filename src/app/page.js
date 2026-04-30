@@ -18,6 +18,7 @@ function getTagClass(tag) {
     welcome: 'tag-welcome',
     animals: 'tag-animals',
     india: 'tag-india',
+    australia: 'tag-australia',
   };
   return map[tag.toLowerCase()] || 'tag-default';
 }
