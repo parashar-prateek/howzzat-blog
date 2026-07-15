@@ -128,7 +128,7 @@ The KTGG could turn everything invisible.
 
 "Great," said everyone. The KTGG tried to scare us, but it couldn't. When it gave up, the sound was coming.
 
-"3 vs 1. Right, on! Whoever gets pushed 3 times to the other side is the winner."
+"3 vs 1. Right, on! Whoever gets pushed 3 times to the other side is the runner up."
 
 ---
 
